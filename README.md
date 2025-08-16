@@ -1,4 +1,4 @@
-# Lithic Node API Library
+2dd005c1c497605036d3524f19d130b3fc5f8d8bhttps://github.com/openai/openai-node/blob/master/.github/CODEOWNERS# Lithic Node API Library
 
 [![NPM version](https://img.shields.io/npm/v/lithic.svg)](https://npmjs.org/package/lithic) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/lithic)
 
